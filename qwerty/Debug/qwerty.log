@@ -1,0 +1,32 @@
+﻿Построение начато 16.09.2020 12:30:01.
+     1>Проект "D:\Users\17vv2\Новая папка (2)\qwerty\qwerty\qwerty.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "D:\Users\17vv2\Новая папка (2)\qwerty\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\qwerty.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+     1>d:\users\17vv2\новая папка (2)\qwerty\qwerty\source.cpp(110): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>d:\users\17vv2\новая папка (2)\qwerty\qwerty\source.cpp(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>d:\users\17vv2\новая папка (2)\qwerty\qwerty\source.cpp(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>d:\users\17vv2\новая папка (2)\qwerty\qwerty\source.cpp(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>d:\users\17vv2\новая папка (2)\qwerty\qwerty\source.cpp(119): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\17vv2\Новая папка (2)\qwerty\Debug\qwerty.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\qwerty.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Users\17vv2\Новая папка (2)\qwerty\Debug\qwerty.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\17vv2\Новая папка (2)\qwerty\Debug\qwerty.lib" /MACHINE:X86 Debug\source.obj
+         qwerty.vcxproj -> D:\Users\17vv2\Новая папка (2)\qwerty\Debug\qwerty.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Users\17vv2\Новая папка (2)\qwerty\Debug\qwerty.exe;#1" /manifest Debug\qwerty.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\qwerty.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\qwerty.lastbuildstate".
+     1>Построение проекта "D:\Users\17vv2\Новая папка (2)\qwerty\qwerty\qwerty.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.01
